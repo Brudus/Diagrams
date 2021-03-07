@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T19:31:08.200Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" version="14.2.9" etag="vkzVriTzOPdowXmqs0Ze" type="github"><diagram id="8J9vl8nqYU6aJfoGJ4U3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T19:36:34.442Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="8B5qpfe-drVkuhResxIj" version="14.2.9" type="github">
+  <diagram id="8J9vl8nqYU6aJfoGJ4U3" name="Page-1">
+    <mxGraphModel dx="1186" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-1" value="«interface»&lt;br&gt;&lt;b&gt;MessageLoader&lt;/b&gt;" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="mV4Yhw0_bow4njmf-IAS-2" target="mV4Yhw0_bow4njmf-IAS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-2" value="CacheMessageLoader" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="mV4Yhw0_bow4njmf-IAS-3" target="mV4Yhw0_bow4njmf-IAS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-3" value="RemoteMessageLoader" style="html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mV4Yhw0_bow4njmf-IAS-6" target="mV4Yhw0_bow4njmf-IAS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mV4Yhw0_bow4njmf-IAS-6" value="ChatService" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
